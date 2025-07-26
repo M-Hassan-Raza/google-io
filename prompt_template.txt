@@ -1,0 +1,5 @@
+PROMPT_TEMPLATE = """Question: {question}
+
+Context: {article}
+
+Answer: {target}"""
